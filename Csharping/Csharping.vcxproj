@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Csharping.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Csharping.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
